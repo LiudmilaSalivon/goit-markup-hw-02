@@ -38,7 +38,7 @@ color: #434455;
   }
 
 /* =================HEADER================= */
-.logo-part{
+.logo-part-header{
     color: #2e2f42;
 }
 
@@ -202,7 +202,7 @@ background: #2e2f42;
 .logo {
 
 }
-.logo-part {
+.logo-part-footer {
 font-weight: 700;
 font-size: 18px;
 line-height: 1.17;
