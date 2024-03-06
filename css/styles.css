@@ -83,8 +83,7 @@ color: #434455;
 }
 /* =================HERO================= */
 .hero {
-width: 1440px;
-height: 600px;
+
 background: #2e2f42;
 padding: 188px;
 }
@@ -117,6 +116,12 @@ cursor: pointer;
 
 .hero-ord-btn:hover,
 .hero-ord-btn:focus{
+    border-radius: 4px;
+padding: 16px 32px;
+width: 169px;
+height: 56px;
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+background: #404bbf;
     }
 
 /* =================ADVANTAGES================= */
@@ -157,8 +162,7 @@ background: #fff;
 }
 
 .team-image {
-width: 264px;
-height: 260px;
+
 }
 
 .team-menu-title {
@@ -183,8 +187,7 @@ background: #fff;
 }
 
 .portfolio-images {
-width: 360px;
-height: 300px;
+
 }
 
 .portfolio-menu-title {
