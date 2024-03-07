@@ -164,6 +164,7 @@ background: #f4f4fd;
 }
 
 .team-title {
+    text-transform: capitalize
     font-family: "Roboto", sans-serif
 font-weight: 700;
 font-size: 36px;
@@ -204,6 +205,7 @@ color: #434455;
 }
 
 .portfolio-title {
+    text-transform: capitalize
     font-family: "Roboto", sans-serif
     font-weight: 700;
 font-size: 36px;
@@ -215,7 +217,7 @@ color: #2e2f42;
 
 .portfolio-menu-list {
 background: 
-background: #fff;
+ #fff;
 }
 
 .portfolio-menu-item {
