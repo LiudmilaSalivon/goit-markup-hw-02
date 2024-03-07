@@ -204,6 +204,7 @@ color: #434455;
 }
 
 .portfolio-title {
+    text-transform: capitalize
     font-weight: 700;
 font-size: 36px;
 line-height: 1.11;
@@ -243,18 +244,20 @@ color: #434455;
 .footer {
 
 background: #2e2f42;
+.logo-part-footer{
+    color: #f4f4fd
 }
-.logo {
+}
+.logo 
+{font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
+}
 
-}
-.logo-part-footer {
-font-weight: 700;
-font-size: 18px;
-line-height: 1.17;
-letter-spacing: 0.03em;
-text-transform: uppercase;
-color: #f4f4fd;
-}
 .footer-text {
 font-size: 16px;
 line-height: 1.5;
